@@ -39,6 +39,6 @@ The project represents an alpha version of a spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first execercise will be to fix this.
 
-## Branch-A Changes
+## Branch-B Changes
 
-Just this line
+Just this line.
